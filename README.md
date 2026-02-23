@@ -31,7 +31,7 @@ Designed for non‑technical users to quickly understand key market trends.
 - Moving Averages  
 - Date & Quarter filters
 
-Screenshots included in `/screenshots`.
+Screenshots included in `/screenshot`.
 
 ---
 
