@@ -48,7 +48,5 @@ Screenshots included in `/screenshot`.
 - Dataset may not reflect adjusted prices.  
 - Dashboard is descriptive, not predictive.
 
----
 
-## 📂 Repo Structure
-``
+
